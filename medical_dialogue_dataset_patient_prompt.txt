@@ -1,0 +1,477 @@
+I’m a 26-year-old female with low back pain for eight years after a fall at a store, why does it still hurt?
+I have an itchy rash on my torso and arms but no shortness of breath, what could this be?
+My medical history hasn’t changed since 2005, does that mean I’m healthy?
+I’ve been on Accutane for three months for acne, will it keep improving?
+I’ve been having confusion and hallucinations, should I be worried?
+My baby was born at 32 weeks and had jaundice, is that normal?
+I’ve never had surgery before, does that affect my current back pain?
+I’m on methadone and live with a roommate, will that affect my treatment?
+I’m 57 with recurring bunions on both feet, why are they getting worse?
+My daughter was born at 7 pounds 3 ounces with no complications, is her hearing test reliable?
+I don’t smoke or drink but work with data, could my job affect my health?
+I’m going home with my son, what should I watch for?
+I moved here in 1984 and used meth before, does that still matter?
+I’m 62 with diabetes and numbness in my legs, why can’t I feel hot things?
+I’m here for a follow-up with no complaints, is that okay?
+I have hip and shoulder pain with leg swelling, what could cause this?
+I live with my parents and am in 5th grade, is my health normal for my age?
+I feel lightheaded when standing up and my metoprolol dose was increased, could that be the reason?
+I’ve been on amoxicillin recently, is that still helping?
+I have bipolar disorder and anemia, should I take iron supplements?
+I’m single, don’t smoke, and worked with chemicals in jewelry, is that risky?
+I was diagnosed with a migraine at urgent care, will Tylenol with codeine work?
+You mentioned Cipro and Flagyl, how long should I take them?
+I’m 51 with a locking thumb diagnosed with stenosing tendinosis, what does releasing the A1 pulley mean?
+I’m counting 26-30 calorie points daily and lost weight, what are diabetic exchanges?
+My family has no significant disease history, does that lower my risks?
+I had colon cancer surgery in 1961, could it come back?
+I had cataract and knee surgeries, are they related to my current pain?
+My family has heart disease and stroke, could I get them too?
+I’m 52 with a heroin relapse, how can I stop using it?
+No one in my family is sick, does that mean I’m safe?
+My dad died of colon cancer at 52, should I get screened?
+You said to continue Cipro for two days, what if I miss a dose?
+My mom died of stomach cancer at 59, am I at risk?
+My child has no past medical issues, is she healthy?
+My sodium and thyroid levels are off, what does that mean?
+I had a stent for kidney stones and lost my medication list, what should I do?
+My son has glaucoma and my brothers had Parkinson’s, am I next?
+I’m 41 and got a burn from hot oil at work, will it heal?
+I’m going home today, what do I need to know?
+I have leg swelling and joint pain, is it serious?
+You said activity as tolerated, how much should I do?
+I’m 29 and got stung by a wasp with swelling, is this normal?
+I got a Dilaudid shot for pain, will it have side effects?
+I drink and use weed sometimes, is that a problem?
+I smoked 2-3 packs daily since age 10 and now take Chantix, is it working?
+You added IV Flagyl and Levaquin, how will they help?
+I have no headaches or urinary issues, is everything okay?
+My review of systems was normal except for earlier issues, what now?
+You said to use Acticoat daily, how do I apply it?
+I have substance abuse issues, how can I get help?
+I don’t use tobacco or alcohol, does that protect me?
+I’m 49 with ear pain and headaches for three weeks, what’s wrong?
+My psychiatric evaluation is done, what did it say?
+I’m 57 with daily headaches for six months, what can I do?
+My mom died of lung cancer, should I worry about that?
+I’m not on any medications, is that okay?
+My family has no high blood pressure or diabetes, am I safe?
+I’m 53 with hernia pain and blood in my stool, is it serious?
+I had back and shoulder surgeries, could they affect me now?
+I have hay fever and hives with past sunburn, is my sunburn related?
+I’m follow-up for spinal stenosis with hand weakness, why won’t it improve?
+I have shoulder pain but no heart issues, what’s causing it?
+I had trauma surgery, could it relate to my current pain?
+I’m 19 and cut my hand in a fight, why is it still bleeding?
+I have eczema and hay fever, are my medications enough?
+I don’t know my surgery history, how can I find out?
+I had my gallbladder removed without issues, is that normal?
+I have no fever or pain anywhere, am I healthy?
+I have no drug intolerances, can I take any medicine?
+I have headaches and nausea but no chest pain, what’s wrong?
+I have hypertension and osteoporosis, are they linked?
+I live with my husband and drink 2-3 drinks daily, is that okay?
+I don’t bleed and have all my reproductive organs, why no periods?
+I have ear pain and eczema, how should I treat them?
+My family has no diabetes or heart disease, why do I have it?
+I don’t know my family’s medical history, what should I do?
+I quit smoking and drinking in ’92, am I still at risk?
+I’m on loratadine and hydrocodone, are they helping?
+I’ve had no surgeries, does that matter for my condition?
+I’m 58 with worsening knee pain, why didn’t arthroscopy help?
+My systems review was negative, does that mean I’m fine?
+I got IV meds for pain, will I feel better soon?
+I have diarrhea and abdominal pain, what could it be?
+I don’t know my family’s health history, should I worry?
+I had suicidal thoughts but not now, what should I do?
+My surgical wound on my thigh won’t heal, why not?
+I have no allergies, can I take any medicine?
+I’m 17 and hurt my elbow in a fight, is my ankle pain related?
+I don’t use alcohol or tobacco, does that help my health?
+My chest exam was normal, what about my other symptoms?
+I have a history of migraines, could that explain my headaches?
+I take Ziac and Remeron, are they for the same thing?
+My past history hasn’t changed, does that mean I’m stable?
+I got a permanent pacemaker, will it change my life?
+My son has nausea and vomiting but no fever, what’s wrong?
+My EKG shows sinus tachycardia, is that dangerous?
+My immunizations are up-to-date, do I need more shots?
+I’m on aspirin for atrial fibrillation, what if I see blood in my stool?
+I’m 53 with hernia and leg pain, could my past strokes be related?
+Prompt
+I’m 38 with chest pain after a car accident last week, could it be serious?
+I have a history of high cholesterol and feel dizzy, what should I do?
+My son had a fever and rash two days ago, is it something contagious?
+I’ve been on blood pressure meds for years, why is it still high?
+I’m 65 with knee pain after a fall, could it be arthritis?
+I had my appendix out at 20, does that affect my stomach pain now?
+My family has thyroid issues, could that explain my fatigue?
+I’m 30 and got a cut that won’t stop bleeding, should I see a doctor?
+I have asthma and coughed up blood, what does that mean?
+I’m on antidepressants and feel worse, is that normal?
+My dad had a heart attack at 60, am I at risk at 45?
+I’ve had no surgeries but have back pain, what could cause it?
+I drink coffee daily and have heart palpitations, is there a link?
+I’m 50 with a lump in my neck, could it be cancer?
+My daughter has frequent ear infections, what can we do?
+I had a UTI last month and still feel pain, is it back?
+My mom had breast cancer, should I get tested at 40?
+I’m 55 and my hands tremble, could it be Parkinson’s?
+I have diabetes and blurry vision, is that a complication?
+I quit smoking 5 years ago, am I still at risk for lung issues?
+I’m 28 with a sprained ankle that swells, how long will it last?
+My family has no allergies, why do I have hay fever?
+I had a hip replacement and now limp, is that expected?
+I’m 47 with memory lapses, could it be dementia?
+My son had a seizure, could it be epilepsy?
+I have acid reflux and chest pain, is it my heart?
+I’m 60 with leg cramps at night, what could cause them?
+My daughter has a rash after new soap, is she allergic?
+I had a stroke 10 years ago, why am I dizzy now?
+I’m 35 with a persistent cough, could it be lung disease?
+My family has kidney stones, am I likely to get them?
+I’m 42 and my joints ache after exercise, is that normal?
+I had a C-section and now have pelvic pain, what’s wrong?
+My dad had diabetes, should I check my blood sugar?
+I’m 63 with hearing loss, could it be age-related?
+I have a history of migraines and jaw pain, are they connected?
+I’m 29 with a burn that blisters, how should I treat it?
+My mom had osteoporosis, am I at risk at 50?
+I have a cold and chest tightness, could it be pneumonia?
+I’m 44 with a rash after medication, should I stop it?
+My son has bedwetting at 7, is that normal?
+I had a knee injury and now hear clicking, what does it mean?
+I’m 58 with foot pain after standing all day, what’s wrong?
+My family has high blood pressure, could that explain my headaches?
+I’m 31 with a toothache and fever, is it an infection?
+I had a hernia repair and feel nausea, is that normal?
+My daughter has a limp after a fall, could it be broken?
+I’m 49 with tingling in my fingers, what could it be?
+My dad had liver disease, should I get tested?
+I have a history of anemia and feel weak, what should I do?
+I’m 36 with a sore throat and rash, could it be strep?
+My family has no heart disease, why do I have palpitations?
+I’m 61 with a cough for a month, could it be chronic?
+My son has a fever and stiff neck, is it meningitis?
+I had a gallbladder issue and now have bloating, what’s next?
+I’m 39 with a headache after a hit, could it be a concussion?
+My mom had arthritis, could that explain my knee pain?
+I’m 53 with a skin spot that changed, could it be skin cancer?
+My daughter has trouble breathing, could it be asthma?
+I have a history of ulcers and stomach pain, what’s wrong?
+I’m 46 with a swollen ankle after a twist, how long to heal?
+My family has stroke history, should I worry at 48?
+I’m 32 with a persistent sore, could it be infected?
+My dad had prostate cancer, should I get screened at 55?
+I have a cold and ear pain, is it an ear infection?
+I’m 57 with a tremor in my hand, what could it cause?
+My son has a rash and fever, could it be measles?
+I had a back surgery and feel numbness, is that normal?
+I’m 41 with a tooth abscess, how urgent is it?
+My family has no diabetes, why do I have it?
+I’m 64 with a cough and weight loss, could it be serious?
+My daughter has a headache and vomiting, what could it be?
+I have a history of gout and foot pain, what triggers it?
+I’m 37 with a cut that’s red and warm, is it infected?
+My mom had a thyroid issue, could that explain my tiredness?
+I’m 50 with a lump under my arm, what could it be?
+My son has a fever and rash, could it be viral?
+I had a heart procedure and feel tired, is that expected?
+I’m 45 with a stiff neck after sleeping, what’s wrong?
+My family has no cancer, why do I have a lump?
+I’m 59 with leg swelling, could it be a blood clot?
+My daughter has a cough and wheezing, is it asthma?
+I have a history of kidney issues and back pain, what’s next?
+I’m 33 with a headache and nausea, could it be a migraine?
+My dad had hypertension, should I monitor mine?
+I’m 62 with a rash after a new drug, should I stop it?
+My son has a fever and joint pain, what could it be?
+I had a shoulder injury and feel weakness, is that normal?
+I’m 48 with a persistent sore throat, could it be cancer?
+My family has no allergies, why do I have eczema?
+I’m 54 with a tremor and stiffness, could it be neurological?
+My daughter has a fever and lethargy, is it serious?
+I have a history of depression and anxiety, why am I shaky?
+Prompt
+I’m 40 with a persistent cough for three weeks, could it be bronchitis?
+My daughter has a fever and sore throat, is it strep throat?
+I have a history of heartburn and now feel chest pain, is it serious?
+I’m 55 with joint pain in my hands, could it be arthritis?
+My son fell and has a bruise on his leg, should I be worried?
+I’ve been on statins for cholesterol, why am I still tired?
+My family has a history of colon cancer, should I get screened at 45?
+I’m 32 with a rash after eating seafood, could it be an allergy?
+I had knee surgery last year, why does it still swell?
+I’m 60 with shortness of breath when climbing stairs, what’s wrong?
+My daughter has a cough and rash, could it be an infection?
+I have diabetes and my feet tingle, is that normal?
+I’m 48 with a headache and neck stiffness, could it be meningitis?
+My dad had a stroke, am I at risk at 50?
+I’ve had no surgeries but feel back pain, what could it be?
+I’m 29 with a cut that’s red and swollen, is it infected?
+My son has frequent stomach aches, could it be something serious?
+I’m on antidepressants and feel dizzy, should I change meds?
+My family has no heart disease, why do I have palpitations?
+I’m 63 with a dry cough for a month, could it be lung-related?
+I had a tonsillectomy as a kid, does it affect my sore throat now?
+My daughter has a fever and lethargy, is it a virus?
+I’m 37 with a burning sensation when urinating, is it a UTI?
+My mom had breast cancer, should I get a mammogram at 42?
+I have a history of asthma and feel wheezy, what should I do?
+I’m 51 with leg swelling after a flight, could it be a clot?
+My son has a rash after playing outside, is it an allergy?
+I had a hip replacement and feel pain, is that expected?
+I’m 44 with blurry vision, could it be related to my diabetes?
+My family has thyroid issues, could that explain my weight gain?
+I’m 59 with a tremor in my hands, could it be neurological?
+My daughter has ear pain and a fever, is it an ear infection?
+I have a history of migraines, why are they worse now?
+I’m 33 with a sore that won’t heal, could it be serious?
+My dad had kidney disease, should I get tested?
+I’m 46 with chest tightness after exercise, is it my heart?
+My son has a cough and fever, could it be pneumonia?
+I had a gallbladder removal and now have diarrhea, is that normal?
+I’m 52 with a lump in my breast, could it be cancer?
+My family has no allergies, why do I have hives?
+I’m 38 with a stiff neck and headache, could it be a strain?
+My daughter has a limp after running, could it be a sprain?
+I have hypertension and feel tired, are they related?
+I’m 61 with a rash after a new medication, should I stop it?
+My son has a fever and joint pain, could it be arthritis?
+I had a heart stent and feel chest pain, is that normal?
+I’m 47 with a persistent sore throat, could it be tonsillitis?
+My mom had osteoporosis, am I at risk at 50?
+I’m 35 with a toothache and swelling, is it an abscess?
+My family has diabetes, could that explain my thirst?
+I’m 64 with hearing loss and tinnitus, is it age-related?
+My daughter has a rash and itching, could it be eczema?
+I have a history of ulcers and abdominal pain, what’s wrong?
+I’m 41 with a swollen ankle after hiking, how long will it heal?
+My dad had a heart attack, should I check my heart at 48?
+I’m 30 with a cut that’s oozing, is it infected?
+My son has a fever and vomiting, could it be a stomach bug?
+I had a knee injury and hear popping, what does it mean?
+I’m 56 with foot pain when walking, could it be plantar fasciitis?
+My family has high cholesterol, could that explain my chest pain?
+I’m 39 with a headache after reading, could it be eye strain?
+My daughter has a cough and wheezing, is it asthma?
+I have a history of kidney stones and back pain, is it related?
+I’m 45 with a skin spot that’s changing, could it be melanoma?
+My mom had liver cancer, should I get screened?
+I’m 53 with a tremor and balance issues, could it be Parkinson’s?
+My son has a fever and rash, could it be a viral infection?
+I had a back surgery and feel tingling, is that normal?
+I’m 42 with a tooth infection, how urgent is treatment?
+My family has no diabetes, why am I always tired?
+I’m 60 with a cough and weight loss, could it be serious?
+My daughter has a headache and nausea, is it a migraine?
+I have a history of gout and foot swelling, what triggers it?
+I’m 34 with a burn that’s blistering, how should I treat it?
+My mom had thyroid cancer, could that explain my neck lump?
+I’m 49 with a lump under my armpit, what could it be?
+My son has a fever and lethargy, is it something serious?
+I had a heart procedure and feel weak, is that expected?
+I’m 46 with a stiff neck after sleeping, could it be a strain?
+My family has no cancer, why do I have a breast lump?
+I’m 58 with leg swelling and pain, could it be a blood clot?
+My daughter has a cough and shortness of breath, is it asthma?
+I have a history of kidney issues and flank pain, what’s next?
+I’m 37 with a headache and vomiting, could it be a migraine?
+My dad had hypertension, should I monitor my blood pressure?
+I’m 63 with a rash after a new drug, should I stop taking it?
+My son has a fever and swollen joints, could it be arthritis?
+I had a shoulder surgery and feel weakness, is that normal?
+I’m 50 with a persistent cough, could it be lung cancer?
+My family has no allergies, why do I have a rash?
+I’m 55 with a tremor and stiffness, could it be neurological?
+My daughter has a fever and tiredness, is it serious?
+I have a history of depression and feel shaky, why is that?
+I’m 43 with a sore that’s red and warm, is it infected?
+My mom had a thyroid issue, could that explain my fatigue?
+I’m 51 with a lump in my neck, could it be cancerous?
+My son has a rash and fever, could it be a virus?
+I had a hip surgery and feel pain, is that normal?
+
+I’m 43 with a sore throat and fever for three days, could it be strep throat?
+My daughter has a persistent cough and wheezing, is it asthma or something else?
+I have a history of acid reflux and now chest pain, could it be heart-related?
+I’m 60 with aching joints in my knees, is this arthritis or just aging?
+My son fell and has a swollen ankle, should I take him to the doctor?
+I’ve been on cholesterol meds for years, why do I still feel fatigued?
+My mom had colon cancer, should I get a colonoscopy at 40?
+I’m 29 with a rash after a new lotion, could it be an allergic reaction?
+I had shoulder surgery last year, why does it still hurt when I lift things?
+I’m 55 with shortness of breath after walking, could it be my lungs?
+My daughter has a fever and red eyes, could it be conjunctivitis?
+I have diabetes and my hands tingle, is this a complication?
+I’m 47 with headaches and neck pain, could it be tension headaches?
+My dad had a stroke at 65, am I at risk at 50?
+I’ve had no surgeries but my back hurts constantly, what could it be?
+I’m 33 with a cut that’s red and painful, is it infected?
+My son has stomach pain and diarrhea, could it be a food allergy?
+I’m on antidepressants and feel nauseous, is this a side effect?
+My family has no heart issues, why do I feel palpitations?
+I’m 62 with a cough for six weeks, could it be chronic bronchitis?
+I had a tonsillectomy as a teen, does it affect my current sore throat?
+My daughter has a fever and rash, could it be measles?
+I’m 38 with burning urination, could it be a UTI again?
+My mom had breast cancer, should I get tested at 45?
+I have asthma and a tight chest, what should I do?
+I’m 52 with swollen legs after sitting long, could it be a blood clot?
+My son has a rash after a hike, could it be poison ivy?
+I had a knee replacement and it clicks, is this normal?
+I’m 44 with blurry vision at night, could it be diabetes-related?
+My family has thyroid problems, could that cause my weight gain?
+I’m 58 with shaky hands, could it be a neurological issue?
+My daughter has ear pain and fever, could it be an infection?
+I have migraines and now jaw pain, are they related?
+I’m 36 with a non-healing sore, could it be serious?
+My dad had kidney failure, should I get my kidneys checked?
+I’m 49 with chest pain after running, could it be angina?
+My son has a cough and fever for a week, could it be pneumonia?
+I had gallbladder surgery and now have bloating, is this normal?
+I’m 53 with a breast lump, could it be cancerous?
+My family has no allergies, why do I have hives?
+I’m 41 with a stiff neck after work, could it be a muscle strain?
+My daughter limps after playing soccer, could it be a sprain?
+I have high blood pressure and feel dizzy, are they connected?
+I’m 61 with a rash from new medication, should I stop it?
+My son has a fever and joint pain, could it be juvenile arthritis?
+I had a heart stent and feel tired, is this expected?
+I’m 46 with a sore throat for weeks, could it be chronic?
+My mom had osteoporosis, am I at risk at 48?
+I’m 34 with a swollen tooth, could it be an abscess?
+My family has diabetes, could that explain my frequent thirst?
+I’m 65 with ringing in my ears, is it just aging?
+My daughter has a rash and itching, could it be eczema?
+I have a history of ulcers and now stomach pain, what’s wrong?
+I’m 42 with a swollen foot after a run, how long will it take to heal?
+My dad had a heart attack, should I get a heart scan at 47?
+I’m 31 with a red, oozing cut, is it infected?
+My son has vomiting and fever, could it be a stomach virus?
+I had a knee injury and it pops, what does that mean?
+I’m 57 with heel pain when walking, is it plantar fasciitis?
+My family has high cholesterol, could that cause my chest pain?
+I’m 39 with headaches after screen time, could it be eye strain?
+My daughter has wheezing and a cough, is it asthma?
+I have kidney stones and now flank pain, are they related?
+I’m 50 with a changing mole, could it be skin cancer?
+My mom had liver disease, should I get tested?
+I’m 54 with balance issues and tremors, could it be neurological?
+My son has a fever and fatigue, is it serious?
+I had back surgery and feel numbness, is this normal?
+I’m 45 with a tooth infection, how urgent is it?
+My family has no diabetes, why am I always tired?
+I’m 63 with a cough and weight loss, could it be serious?
+My daughter has nausea and headaches, is it a migraine?
+I have gout and swollen feet, what’s triggering it?
+I’m 37 with a blistering burn, how should I treat it?
+My mom had thyroid cancer, could my neck lump be related?
+I’m 51 with an armpit lump, could it be dangerous?
+My son has a fever and lethargy, is it a virus?
+I had heart surgery and feel weak, is this normal?
+I’m 44 with a stiff neck after sleeping, could it be a strain?
+My family has no cancer, why do I have a lump in my breast?
+I’m 59 with leg swelling and pain, could it be a clot?
+My daughter has shortness of breath and a cough, is it asthma?
+I have kidney issues and back pain, could they be connected?
+I’m 38 with vomiting and headaches, could it be a migraine?
+My dad had high blood pressure, should I check mine?
+I’m 62 with a rash from a new drug, should I stop taking it?
+My son has swollen joints and fever, could it be arthritis?
+I had shoulder surgery and feel weak, is this normal?
+I’m 49 with a chronic cough, could it be lung-related?
+My family has no allergies, why do I have a rash?
+I’m 56 with stiffness and tremors, could it be Parkinson’s?
+My daughter has tiredness and fever, is it serious?
+I have depression and feel shaky, could it be my meds?
+I’m 40 with a red, warm sore, is it infected?
+My mom had thyroid issues, could that cause my fatigue?
+I’m 52 with a neck lump, could it be cancerous?
+My son has a rash and fever, could it be a viral infection?
+I had hip surgery and feel pain, is this normal?
+I’m 47 with a tooth abscess, how urgent is treatment?
+My family has no diabetes, why am I always thirsty?
+I’m 61 with weight loss and cough, could it be serious?
+My daughter has headaches and vomiting, is it a migraine?
+I have gout and foot pain, what’s causing it?
+I’m 35 with a burn that’s blistering, how should I treat it?
+My mom had thyroid issues, could my neck lump be related?
+I’m 50 with an armpit lump, what could it be?
+My son has lethargy and fever, is it serious?
+I had heart surgery and feel tired, is this normal?
+I’m 46 with a stiff neck after work, could it be a strain?
+My family has no cancer, why do I have a breast lump?
+I’m 58 with leg swelling and pain, could it be a blood clot?
+My daughter has a cough and wheezing, is it asthma?
+I have kidney issues and flank pain, are they related?
+I’m 39 with headaches and nausea, could it be a migraine?
+My dad had hypertension, should I monitor my blood pressure?
+I’m 64 with a rash from a new medication, should I stop it?
+My son has joint pain and fever, could it be arthritis?
+I had a shoulder injury and feel weak, is this normal?
+I’m 51 with a chronic sore throat, could it be cancer?
+My family has no allergies, why do I have hives?
+I’m 57 with tremors and balance issues, could it be neurological?
+My daughter has fever and fatigue, is it serious?
+I have depression and shakiness, is it my medication?
+I’m 44 with a red, warm cut, is it infected?
+My mom had thyroid cancer, could my fatigue be related?
+I’m 49 with a neck lump, could it be dangerous?
+My son has a fever and rash, could it be a virus?
+I had a hip replacement and feel pain, is it normal?
+I’m 46 with a tooth infection, how urgent is it?
+My family has no diabetes, why am I always tired?
+I’m 62 with a cough and weight loss, could it be serious?
+My daughter has nausea and headaches, is it a migraine?
+I have gout and swollen feet, what triggers it?
+I’m 38 with a blistering burn, how should I treat it?
+My mom had thyroid issues, could my neck lump be related?
+I’m 53 with an armpit lump, could it be cancerous?
+My son has lethargy and fever, is it a virus?
+I had heart surgery and feel weak, is this normal?
+I’m 47 with a stiff neck after sleeping, could it be a strain?
+My family has no cancer, why do I have a lump in my breast?
+I’m 60 with leg swelling and pain, could it be a blood clot?
+My daughter has shortness of breath and cough, is it asthma?
+I have kidney issues and back pain, could they be connected?
+I’m 40 with vomiting and headaches, could it be a migraine?
+My dad had high blood pressure, should I check mine?
+I’m 63 with a rash from a new drug, should I stop it?
+My son has swollen joints and fever, could it be arthritis?
+I had shoulder surgery and feel weak, is this normal?
+I’m 50 with a chronic cough, could it be lung cancer?
+My family has no allergies, why do I have a rash?
+I’m 56 with stiffness and tremors, could it be Parkinson’s?
+My daughter has tiredness and fever, is it serious?
+I have depression and feel shaky, could it be my meds?
+I’m 45 with a red, warm sore, is it infected?
+My mom had thyroid issues, could that cause my fatigue?
+I’m 51 with a neck lump, could it be cancerous?
+My son has a rash and fever, could it be a viral infection?
+I had hip surgery and feel pain, is this normal?
+I’m 48 with a tooth abscess, how urgent is treatment?
+My family has no diabetes, why am I always thirsty?
+I’m 64 with weight loss and cough, could it be serious?
+My daughter has headaches and vomiting, is it a migraine?
+I have gout and foot pain, what’s causing it?
+I’m 39 with a burn that’s blistering, how should I treat it?
+My mom had thyroid cancer, could my neck lump be related?
+I’m 52 with an armpit lump, what could it be?
+My son has lethargy and fever, is it serious?
+I had heart surgery and feel tired, is this normal?
+I’m 46 with a stiff neck after work, could it be a strain?
+My family has no cancer, why do I have a breast lump?
+I’m 59 with leg swelling and pain, could it be a blood clot?
+My daughter has a cough and wheezing, is it asthma?
+I have kidney issues and flank pain, are they related?
+I’m 41 with headaches and nausea, could it be a migraine?
+My dad had hypertension, should I monitor my blood pressure?
+I’m 62 with a rash from a new medication, should I stop it?
+My son has joint pain and fever, could it be arthritis?
+I had shoulder surgery and feel weak, is this normal?
+I’m 49 with a chronic sore throat, could it be cancer?
+My family has no allergies, why do I have hives?
+I’m 57 with tremors and balance issues, could it be neurological?
+My daughter has fever and fatigue, is it serious?
+I have depression and shakiness, is it my medication?
