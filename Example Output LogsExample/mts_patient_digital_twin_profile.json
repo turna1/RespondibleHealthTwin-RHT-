@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-05-25T22:15:29.464302",
+  "goal": "What are the health risks I should be most concerned about?",
+  "context": "- Occupation: Truck driver\n- Smoking habit: 2 packs a day\n- Alcohol consumption: 2 beers daily",
+  "tone": "supportive",
+  "wellbeing_score": 4,
+  "mood": 1,
+  "sleep": 3,
+  "energy": 1,
+  "mood_color": "#90ee90"
+}
